@@ -18,7 +18,7 @@
 
 <img src=".\Screenshot\image-20250607185054332.png" alt="image-20250607185054332" style="zoom:67%;" />
 
-![image-20250607185359107](E:\0 github\GPA_HBPU\Screenshot\image-20250607185149875.png)
+![image-20250607185359107](.\Screenshot\image-20250607185149875.png)
 
 <img src=".\Screenshot\image-20250607185229137.png" alt="image-20250607185229137" style="zoom:150%;" />
 
