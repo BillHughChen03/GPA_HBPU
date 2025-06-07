@@ -18,25 +18,24 @@
 
 <img src=".\Screenshot\image-20250607185054332.png" alt="image-20250607185054332" style="zoom:67%;" />
 
-![image-20250607185359107](.\Screenshot\image-20250607185149875.png)
+<img src=".\Screenshot\image-20250607185149875.png" alt="image-20250607185149875.png" style="zoom:67%;" />
 
 <img src=".\Screenshot\image-20250607185229137.png" alt="image-20250607185229137" style="zoom:150%;" />
 
-![image-20250607185326507](.\Screenshot\image-20250607185326507.png)
+<img src=".\Screenshot\image-20250607185326507.png" alt="image-20250607185326507.png" style="zoom:67%;" />
 
-![image-20250607185454674](.\Screenshot\image-20250607185454674.png)
-
+<img src=".\Screenshot\image-20250607185454674.png" alt="image-20250607185454674.png" style="zoom:67%;" />
 
 
 ## 修改
 
-根据不同学院的要求，工具提供了两种计算办法，一个是学位课计算（Degree.py），一般用于毕业要求的计算；一个是所有课程计算（AllCourses.py)。主要是去修改Degree，或者是计算法则，一般也就是这两处的修改，按照要求去变动就行。
+根据不同学院的要求，工具提供了两种计算办法，一个是学位课计算（Degree.py），一般用于毕业要求的计算；一个是所有课程计算（AllCourses.py）。主要是去修改Degree，或者是计算法则，一般也就是这两处的修改，按照要求去变动就行。
 
-![image-20250607185800698](.\Screenshot\image-20250607185800698.png)
+<img src=".\Screenshot\image-20250607185800698.png" alt="image-20250607185800698.png" style="zoom:67%;" />
 
 计算法则如上图所示。
 
-![image-20250607185846169](.\Screenshot\image-20250607185846169.png)
+<img src=".\Screenshot\image-20250607185846169.png" alt="image-20250607185846169.png" style="zoom:67%;" />
 
 学位课筛选请修改此处。
 
